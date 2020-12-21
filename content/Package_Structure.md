@@ -141,7 +141,7 @@
   "author": "restuwahyu13",
   "repository": "https://github.com/techsoft705/node-math",
   "homepage": "https://github.com/techsoft705/node-math#readme",
-  "bugs": "url": "https://github.com/techsoft705/node-math/issues",
+  "bugs": "https://github.com/techsoft705/node-math/issues",
   "license": "MIT",
   "engines": {
     "node": ">=10.0.0",
