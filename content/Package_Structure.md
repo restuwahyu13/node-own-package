@@ -1,4 +1,4 @@
-## Package.json Structure
+## Package json Structure
 
 ### TABLE OF CONTENT
 
@@ -183,3 +183,9 @@
   }
 }
 ```
+
+##
+
+<p align="right">
+  <b><a href="#Package-json-Structure">BACK TO TOP</a></b>
+</p>
