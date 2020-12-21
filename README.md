@@ -1,4 +1,4 @@
-## Create Your Owner Package Libray
+## Create Your Own Package Libray
 
 **Berikut** ini adalah tutorial step by step panduan cara membuat **Package Library** untuk `Nodejs Application` menggunakan `TypeScript` dan `JavaScript`, semoga dengan adanya tutorial ini anda dapat membuat **Package Library** anda sendiri, yang nantinya bisa anda gunakan sendiri atau anda bisa bagikan kepada orang lain.
 
