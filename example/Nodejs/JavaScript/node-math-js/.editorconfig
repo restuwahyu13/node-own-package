@@ -1,0 +1,43 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Matches multiple files with brace expansion notation
+# Set default charset
+[*.{js}]
+charset = utf-8
+
+# space indentation
+[*.js]
+indent_style = space
+indent_size = 2
+
+# Tab indentation (no size specified)
+[Makefile]
+indent_style = tab
+
+# Indentation override for all JS under libs directory
+[libs/**.js]
+indent_style = space
+indent_size = 2
+
+# Indentation override for all JS under app-dev directory
+[app-dev/**.js]
+indent_style = space
+indent_size = 2
+
+# Indentation override for all JS under __tests__ directory
+[__tests__/**.{spec.js, test.js}]
+indent_style = space
+indent_size = 2
+
+# Indentation override for all JS under tests directory
+[tests/**.{spec.js, test.js}]
+indent_style = space
+indent_size = 2

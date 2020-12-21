@@ -1,0 +1,5 @@
+coverage
+node_modules
+esm
+dist
+index.d.txt

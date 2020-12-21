@@ -1,0 +1,20 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
+  "parser": "babel-eslint",
+  "extends": ["eslint:recommended", "plugin:node/recommended", "plugin:jest/recommended"],
+  "env": {
+    "node": true,
+    "jest/globals": true
+  },
+  "settings": {
+    "jest": {
+      "version": 26
+    }
+  },
+  "rules": {
+    "semi": 0
+  }
+}

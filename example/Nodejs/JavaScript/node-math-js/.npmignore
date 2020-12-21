@@ -1,0 +1,14 @@
+**/.
+__tests__/
+app-dev/
+coverage
+node_modules/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.prettierrc
+jest.config.js
+package-lock.json
+.coveralls.yml
+.travis.yml

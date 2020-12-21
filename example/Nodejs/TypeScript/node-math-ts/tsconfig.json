@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "module": "CommonJS",
+    "target": "ES2015",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "declaration": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "typeRoots": ["node_modules/@types"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist", "esm", "node_modules", "coverage", "__tests__"]
+}

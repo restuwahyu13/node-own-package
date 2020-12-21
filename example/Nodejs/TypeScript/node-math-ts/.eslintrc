@@ -1,0 +1,27 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2015,
+    "sourceType": "module"
+  },
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "eslint:recommended",
+    "plugin:node/recommended",
+    "plugin:jest/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "node/no-unsupported-features/es-syntax": 0,
+    "node/no-missing-import": 0,
+    "@typescript-eslint/no-explicit-any": 0
+  },
+  "env": {
+    "node": true,
+    "jest/globals": true
+  },
+  "settings": {
+    "jest": {
+      "version": 26
+    }
+  }
+}
