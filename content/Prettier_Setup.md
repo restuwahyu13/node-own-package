@@ -36,3 +36,9 @@
   "semi": false
 }
 ```
+
+##
+
+<p align="right">
+  <b><a href="#Prettier-Config-Basic">BACK TO TOP</a></b>
+</p>
