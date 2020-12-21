@@ -65,5 +65,5 @@ jika anda belum pernah mencoba `Typescript` sama sekali, alangkah baiknya anda b
 ##
 
 <p align="right">
-  <b><a href="#NPM-Package-Library-Setup">BACK TO TOP</a></b>
+  <b><a href="#TypeScript-Config-Basic">BACK TO TOP</a></b>
 </p>
