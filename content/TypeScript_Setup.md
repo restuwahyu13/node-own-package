@@ -11,7 +11,7 @@
 
 ## TypeScript Introduction
 
-**Typescript** adalah bahasa pemerograman yang di kembangkan oleh Microsoft yang di buat tepatnya pada tahun 2009, typescript juga sering di sebut sebagai superset nya javascript, dikarenakan semua kode javascript yang anda tuliskan bisa di berjalan di typescript, ada sedikit perbedaan antara javascript dan typescript, typescript full support OOP (Object Oriented Programming) seperti layaknya Java atau C++, sedangkan javascript tidak full support support OOP (Object Oriented Programming), agar typescript bisa berjalan di browser di butuhkan sebuah compiler, anda bisa menggunakan compiler bawaan typescript atau pihak ketiga seperti babel, webpack atau rollup.
+**Typescript** adalah bahasa pemerograman yang di kembangkan oleh `Microsoft` yang di buat tepatnya pada tahun 2009, `Typescript` juga sering di sebut sebagai superset nya `Javascript`, dikarenakan semua kode `Javascript` yang anda tuliskan bisa di berjalan di `Typescript`, ada sedikit perbedaan antara `Javascript` dan `Typescript`, `Typescript` full support `OOP (Object Oriented Programming)` seperti layaknya `Java` atau `C++`, sedangkan `Javascript` tidak full support support `OOP (Object Oriented Programming)`, agar `Typescript` bisa berjalan di browser di butuhkan sebuah `compiler`, anda bisa menggunakan compiler bawaan `Typescript` atau pihak ketiga seperti `Babel`, `Webpack` atau `Rollup`.
 
 ### TypeScript Config Introduction
 
