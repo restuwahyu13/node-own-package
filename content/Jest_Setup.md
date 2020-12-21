@@ -1,8 +1,9 @@
-## Jest Package Library
+## Jest Config Basic
 
 ### TABLE OF CONTENT
 
 - [Get Started](#get-started)
+  - [Jest Introduction](#Jest-Introduction)
   - [Jest Config](#Jest-Config)
   - [Jest Package json Setup](#Jest-Package-json-Setup)
   - [Jest Test Success](#Jest-Test-Success)
@@ -137,3 +138,9 @@ module.exports = {
 **brikut ini adalah contoh gambar**, tampilan ketika berhasil melakukan `TDD Testing` dengan menggunakan perintah `npm run test:coverage`
 
 <img src="https://i.imgur.com/iVmNIg1.png" alt="logo_jest_coverage"/>
+
+##
+
+<p align="right">
+  <b><a href="#Jest-Config-Basic">BACK TO TOP</a></b>
+</p>
