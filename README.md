@@ -43,7 +43,7 @@ console.log(output)
 
 ### Challenge From Me
 
-Silahkan pamerkan `package library` anda setelah mengikuti tutorial yang saya berikan ini, untuk menginspirasi teman - teman yang lainnya, silahkan clone repository berikut ini, kemudian taruh `package library` yang sudah anda buat di `example folder`, sesuai dengan type `package library` yang telah anda buat, untuk `readmenya` silahkan ikuti contoh `package library` yang sudah ada sebelumnya.
+Silahkan pamerkan `package library` anda setelah mengikuti tutorial yang saya berikan ini, untuk menginspirasi teman - teman yang lainnya, silahkan clone repository berikut ini, kemudian taruh `package library` yang sudah anda buat di `modules folder`, sesuai dengan type `package library` yang telah anda buat, untuk `readmenya` silahkan ikuti contoh `package library` yang sudah ada sebelumnya.
 
 ### Author
 
