@@ -5,17 +5,17 @@
 ### Table Of Content
 
 - [Get Started](#get-started)
-  - [Setup Package Library](https://github.com/restuwahyu13/node-owner-package/content/Setup_Application.md)
-  - [NPM Introduction](https://github.com/restuwahyu13/node-owner-package/content/NPM_Setup.md)
-  - [Travis CI Introduction](https://github.com/restuwahyu13/node-owner-package/content/CI_Setup.md)
-  - [Coveralls Introduction](https://github.com/restuwahyu13/node-owner-package/content/Coveralls_Setup.md)
-  - [Prettier Introduction](https://github.com/restuwahyu13/node-owner-package/content/Prettier_Setup.md)
-  - [Jest Introduction](https://github.com/restuwahyu13/node-owner-package/content/Jest_Setup.md)
-  - [Eslint Introduction](https://github.com/restuwahyu13/node-owner-package/content/Eslint_Config.md)
-  - [Editor Introduction](https://github.com/restuwahyu13/node-owner-package/content/Editor_Config.md)
-  - [TypeScript Introduction](https://github.com/restuwahyu13/node-owner-package/content/TypeScript_Setup.md)
-  - [Package JSON Introduction](https://github.com/restuwahyu13/node-owner-package/content/Package_Structure.md)
-  - [Different Package Versions](https://github.com/restuwahyu13/node-owner-package/content/DPV.md)
+  - [Setup Package Library](https://github.com/restuwahyu13/node-own-package/blob/main/content/Setup_Application.md)
+  - [NPM Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/NPM_Setup.md)
+  - [Travis CI Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/CI_Setup.md)
+  - [Coveralls Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Coveralls_Setup.md)
+  - [Prettier Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Prettier_Setup.md)
+  - [Jest Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Jest_Setup.md)
+  - [Eslint Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Eslint_Config.md)
+  - [Editor Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Editor_Config.md)
+  - [TypeScript Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/TypeScript_Setup.md)
+  - [Package JSON Introduction](https://github.com/restuwahyu13/node-owner-package/blob/main/content/Package_Structure.md)
+  - [Different Package Versions](https://github.com/restuwahyu13/node-owner-package/blob/main/content/DPV.md)
 
 ### Different Library Packages
 
